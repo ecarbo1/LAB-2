@@ -1,16 +1,17 @@
 body{
-	background-color:#B40486;
+	background-color:#b40486;
 }
 
 html {
 	line-height: 120%;
-	font-family: "Arial",monospace;
+	font-family: "Arial", monospace;
 	font-size: 28px;
 }
 
 screen {
 
-form { text-align: center;
+form { 
+	text-align: center;
 	width: 100%;
 }
 
