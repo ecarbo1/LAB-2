@@ -2,8 +2,26 @@ body{
 	background-color:##B40486;
 }
 
-html{
+html {
 	line-height: 120%;
 	font-family: "Arial",monospace;
 	font-size: 28px;
 }
+
+screen {
+
+form { text-align: center;
+	width: 100%;
+}
+
+h1 {
+	text-align:center;
+	font-size:32px;
+	margin-left:10px;
+}
+
+input { 
+	width: 40%;
+	height: 50px;
+	margin: 3px;
+	font-size: 20px;
