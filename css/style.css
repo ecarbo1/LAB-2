@@ -8,34 +8,34 @@ html {
 	font-size: 28px;
 }
 
-screen {
 
-form 
-	text-align: center;
+ 
+form{ 
+	text-align:center;
 	width: 100%;
-
+}
 
 legend {
 	margin:0 auto;
-
+}
 
 h1 {
 	text-align:center;
 	font-size:32px;
 	margin-left:10px;
-
+}
 
 input { 
 	width: 40%;
 	height: 50px;
 	margin: 3px;
 	font-size: 20px;
-
+}
 
 div {
 	width:100%;
 	margin:0 auto;
-
+}
 
 label { 
 	display: block;
@@ -43,13 +43,13 @@ label {
 	width: 90%;
 	margin: 0 auto;
 	height: 70px;
-
+}
 
 #birth {
 	margin-right: 150px;
-
+}
 
 #button {
 	text-align: center;
 	margin-left: 95px;
-
+}
